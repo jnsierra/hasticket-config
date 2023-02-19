@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /api-acceso-datos
+  port: 5003
